@@ -18,7 +18,7 @@ Firstly execute Generator_CGAN_authen.py where in you have to change the accesse
 Then go ahead and run the Mimic_model_construction.py file similarly .
 Lastly execute the Main.py file to get the respective results. Also execute Mnist_direct.py or Mnist_generative.py to generate the Poisoined samples required to run the code.
 
-Dataset:
+**Dataset:**
 MNIST Datasbase - handwritten digits, has a training set of 60,000 examples, and a test set of 10,000 examples. It is a subset of a larger set available from NIST. The digits have been size-normalized and centered in a fixed-size image.
 
 Train and test datasets are found in the following link http://yann.lecun.com/exdb/mnist/
