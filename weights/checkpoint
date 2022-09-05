@@ -1,0 +1,2 @@
+model_checkpoint_path: "discriminator_CWGANGP_2000"
+all_model_checkpoint_paths: "discriminator_CWGANGP_2000"
